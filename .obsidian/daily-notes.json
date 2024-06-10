@@ -1,5 +1,5 @@
 {
-  "template": "Templates/Untitled",
-  "format": "DD-MMMM-YYYY",
+  "template": "Templates/Basic template {{date}} {{time}}",
+  "format": "MM-DD-YYYY",
   "folder": "/"
 }

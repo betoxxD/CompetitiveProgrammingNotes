@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "fcd77f8bc4fbc7c9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1cd7dc383cc4c9e3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -163,16 +149,17 @@
   },
   "active": "f0b135f191dda687",
   "lastOpenFiles": [
-    "LICENSE",
+    "Introducción/1.5 Habilidades básicas de procesamiento de cadenas.md",
     "Introducción/1.6 Problemas Ad hoc.md",
-    "Temas de programación/Java/Gregorian Calendar.md",
     "Temas de programación/C++/ctime.md",
+    "Temas de programación/Java/Gregorian Calendar.md",
+    "Templates/Basic template.md",
+    "06-10-2024.md",
+    "LICENSE",
     "Temas de programación/Java",
     "Temas de programación/C++/Untitled.md",
     "Temas de programación/C++",
     "Temas de programación",
-    "Introducción/1.5 Habilidades básicas de procesamiento de cadenas.md",
-    "Templates/Basic template.md",
     "Templates",
     "Introducción",
     "Welcome.md",
