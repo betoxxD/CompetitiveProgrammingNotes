@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "3cfecd64284cb54e",
+    "type": "split",
+    "children": [
+      {
+        "id": "37954c23fba52cd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b135f191dda687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introducción/1.6 Problemas Ad hoc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fcd77f8bc4fbc7c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cd7dc383cc4c9e3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d42289c9a6bdee56",
+    "type": "split",
+    "children": [
+      {
+        "id": "afc9ddc146a01bba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b168c8494e954b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65bd444c4a403b59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "feef9e7a0a92f72c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6e88045deaf1b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "b13598f4e7a01be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "788c187d37e01217",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introducción/1.6 Problemas Ad hoc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db347d32b542be42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introducción/1.6 Problemas Ad hoc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d28cb456f791494",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a968834482363f98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introducción/1.6 Problemas Ad hoc.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0b135f191dda687",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Introducción/1.6 Problemas Ad hoc.md",
+    "Temas de programación/Java/Gregorian Calendar.md",
+    "Temas de programación/C++/ctime.md",
+    "Temas de programación/Java",
+    "Temas de programación/C++/Untitled.md",
+    "Temas de programación/C++",
+    "Temas de programación",
+    "Introducción/1.5 Habilidades básicas de procesamiento de cadenas.md",
+    "Templates/Basic template.md",
+    "Templates",
+    "Introducción",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
